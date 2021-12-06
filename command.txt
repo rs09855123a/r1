@@ -15,3 +15,5 @@ git cat-file -t(type)
              -s(size)
 
 git ls-files -s
+
+git commit -m "first commit"
