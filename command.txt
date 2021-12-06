@@ -19,3 +19,13 @@ git ls-files -s
 git commit -m "first commit"
 
 git log (倉庫區object)
+
+git commit --amend
+    vim (insert->插入)
+    esc-> :wq
+
+git diff
+倉庫刪除->commit
+git rm --cached(移到工作區)
+
+git rm -f file-name(暫存區刪除)
