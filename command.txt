@@ -17,3 +17,5 @@ git cat-file -t(type)
 git ls-files -s
 
 git commit -m "first commit"
+
+git log (倉庫區object)
